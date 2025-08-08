@@ -27,7 +27,7 @@
     "classnames": "^2.2.6",
     "contrast-color": "^1.0.1",
     "cross-env": "^7.0.3",
-    "embla-carousel-react": "^6.0.2",
+    "embla-carousel-react": "^8.0.0",
     "focus-trap-react": "^8.8.2",
     "framer-motion": "^5.5.5",
     "js-cookie": "^3.0.0",
